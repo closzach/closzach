@@ -39,4 +39,5 @@
 
 ## Me contacter/soutenir
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:http://constantinloszach@gmail.com/)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/constantinloszach?country.x=FR&locale.x=fr_FR)
 
