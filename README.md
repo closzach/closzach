@@ -43,3 +43,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constantin-loszach/)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/constantinloszach?country.x=FR&locale.x=fr_FR)
 
+
+[![](https://visitcount.itsvg.in/api?id=closzach&icon=5&color=11)](https://visitcount.itsvg.in)
