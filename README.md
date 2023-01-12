@@ -7,6 +7,8 @@ IT student in a second year of a BUT Informatique in the Orléans University, Fr
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://fr.wikipedia.org/wiki/JavaScript)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://fr.wikipedia.org/wiki/Flask_(framework))
+
 
 ## Database
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://fr.wikipedia.org/wiki/MySQL)
@@ -35,7 +37,6 @@ IT student in a second year of a BUT Informatique in the Orléans University, Fr
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://fr.wikipedia.org/wiki/Git)
 
 ## Current learning
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://fr.wikipedia.org/wiki/Flask_(framework))
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://fr.wikipedia.org/wiki/Ruby)
 
 ## Contact me/business inquiries
