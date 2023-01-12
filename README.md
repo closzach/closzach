@@ -1,5 +1,5 @@
 ## About me
-IT student in a seconde year of a BUT Informatique in the Orléans University, France.
+IT student in a second year of a BUT Informatique in the Orléans University, France.
 
 ## Languages
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://fr.wikipedia.org/wiki/Python_(langage))
