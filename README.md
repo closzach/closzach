@@ -44,8 +44,6 @@ IT student in a seconde year of a BUT Informatique in the Orléans University, F
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/constantinloszach?country.x=FR&locale.x=fr_FR)
 
 ## Github Stats
-![](https://github-readme-stats.vercel.app/api?username=closzach&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=closzach&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=closzach&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=closzach&theme=dark&hide_border=false)
 
 [![](https://visitcount.itsvg.in/api?id=closzach&icon=5&color=11)](https://visitcount.itsvg.in)
