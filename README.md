@@ -1,5 +1,10 @@
 ## About me
-IT student in a third year of a BUT Informatique in the Orléans University, France.
+IT student holding a Bachelor's degree and aiming for a Master degree.
+
+Orléans University, France.
+
+- Data Science
+- Web development
 
 ## Languages/Frameworks/SDK
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://en.wikipedia.org/wiki/Python_(programming_language))
