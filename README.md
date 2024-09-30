@@ -55,6 +55,7 @@ IT student in a third year of a BUT Informatique in the Orléans University, Fra
 ## Current learning
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20is%20an%20imperative%2C%20procedural,the%20sense%20of%20functional%20programming)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://en.wikipedia.org/wiki/PyTorch)
 
 ## Contact me/business inquiries
