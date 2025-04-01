@@ -1,6 +1,5 @@
 ## About me
 IT student holding a Bachelor's degree and aiming for a Master degree.
-https://www.constantinloszach.fr/
 
 Orléans University, France.
 
